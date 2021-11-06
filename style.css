@@ -73,7 +73,7 @@ body{
     position: relative;
 }
 .percentage{ /*Battery indicator main*/
-    background: linear-gradient(to left, #626474, #004e92);
+    background: linear-gradient(to left, #626474, #0774d4);
     position: absolute;
     top: 4px;
     bottom: 4px;
